@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name haptic-cloth)(type KiCad)(uri ${KIPRJMOD}/haptic-cloth.pretty)(options "")(descr ""))
+)
